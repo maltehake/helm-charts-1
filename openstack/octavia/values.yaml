@@ -357,3 +357,8 @@ logging:
     sqlalchemy:
       handlers: stdout, sentry
       level: WARNING
+
+sapcc_rate_limit:
+  enabled: true
+  persistence:
+    enabled: false
