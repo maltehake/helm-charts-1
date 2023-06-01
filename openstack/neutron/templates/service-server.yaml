@@ -13,6 +13,7 @@ metadata:
     type: api
   annotations:
     maia.io/scrape: "true"
+    {{- include "utils.topology.service_topology_mode" . | indent 2 }}
 spec:
   selector:
     name: neutron-server
