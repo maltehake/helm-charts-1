@@ -11,14 +11,11 @@ dependencies:
 - name: rabbitmq
   repository: https://charts.eu-de-2.cloud.sap
   version: 0.5.1
-- name: rabbitmq
-  repository: https://charts.eu-de-2.cloud.sap
-  version: 0.5.1
 - name: utils
   repository: https://charts.eu-de-2.cloud.sap
   version: 0.4.1
 - name: owner-info
   repository: https://charts.eu-de-2.cloud.sap
   version: 0.2.0
-digest: sha256:f447ca090500400ba3e514c8a35417f0e62200210b2815fd19f30acf21f21da7
-generated: "2023-04-25T14:06:54.424443+02:00"
+digest: sha256:3181292ceecd889dfda32bfeea76575578e6ff209f0a3856fd2a8b18e1c1d505
+generated: "2023-06-06T16:02:23.413032233+02:00"
